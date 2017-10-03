@@ -269,6 +269,12 @@ li{
   clear: both;
 }
 
+.details .middle{
+  float: left;
+  position: relative;
+  left: 10%;
+}
+
 .details .location::before{
   display: inline-block;
   position: relative;
